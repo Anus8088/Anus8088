@@ -1,7 +1,7 @@
 ![logo](https://github.com/Anus8088/Anus8088/blob/main/my.png)
 <h1 align="center">Hi 👋, I'm Muhammad Anus</h1>
 <h3 align="center">A frontend and backend website developer</h3>
-
+<img align="right" width="350" alt="coding" src="https://github.com/Anus8088/Anus8088/blob/main/gif.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anus8088&label=Profile%20views&color=0e75b6&style=flat" alt="anus8088" /> </p>
 
 - 🔭 I’m currently studying computer science **Web Development etc.**
